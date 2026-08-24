@@ -1,12 +1,10 @@
-name: Team Matcher
-description: Stellen Sie Fragen, bitten Sie um Hilfe oder schlagen Sie Funktionen für Free Text Editor vor.
-title: "[Team Matcher] "
+title: "[team-matcher.com] "
 labels: []
 body:
   - type: markdown
     attributes:
       value: |
-        Willkommen! Nutzen Sie dieses Formular für Fragen, Funktionswünsche oder Feedback zu **Team Matcher**. Bitte teilen Sie keine privaten persönlichen Daten.
+        Willkommen! Nutzen Sie dieses Formular für Fragen, Funktionswünsche oder Feedback zu **team-matcher.com**. Bitte teilen Sie keine privaten persönlichen Daten.
   - type: dropdown
     id: topic-type
     attributes:
