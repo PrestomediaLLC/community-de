@@ -1,12 +1,10 @@
-name: Free Text Editor
-description: Stellen Sie Fragen, bitten Sie um Hilfe oder schlagen Sie Funktionen für Free Text Editor vor.
-title: "[Free Text Editor] "
+title: "[free-text-editor.com] "
 labels: []
 body:
   - type: markdown
     attributes:
       value: |
-        Willkommen! Nutzen Sie dieses Formular für Fragen, Funktionswünsche oder Feedback zu **Free Text Editor**. Bitte teilen Sie keine privaten persönlichen Daten.
+        Willkommen! Nutzen Sie dieses Formular für Fragen, Funktionswünsche oder Feedback zu **free-text-editor.com**. Bitte teilen Sie keine privaten persönlichen Daten.
   - type: dropdown
     id: topic-type
     attributes:
