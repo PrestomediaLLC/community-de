@@ -1,12 +1,10 @@
-name: Free Diagrams
-description: Stellen Sie Fragen, bitten Sie um Hilfe oder schlagen Sie Funktionen für Free Text Editor vor.
-title: "[Free Diagrams] "
+title: "[freediagrams.com] "
 labels: []
 body:
   - type: markdown
     attributes:
       value: |
-        Willkommen! Nutzen Sie dieses Formular für Fragen, Funktionswünsche oder Feedback zu **Free Diagrams**. Bitte teilen Sie keine privaten persönlichen Daten.
+        Willkommen! Nutzen Sie dieses Formular für Fragen, Funktionswünsche oder Feedback zu **freediagrams.com**. Bitte teilen Sie keine privaten persönlichen Daten.
   - type: dropdown
     id: topic-type
     attributes:
