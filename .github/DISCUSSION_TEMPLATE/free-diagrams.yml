@@ -1,0 +1,28 @@
+name: Free Diagrams
+description: Stellen Sie Fragen, bitten Sie um Hilfe oder schlagen Sie Funktionen für Free Text Editor vor.
+title: "[Free Diagrams] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Willkommen! Nutzen Sie dieses Formular für Fragen, Funktionswünsche oder Feedback zu **Free Diagrams**. Bitte teilen Sie keine privaten persönlichen Daten.
+  - type: dropdown
+    id: topic-type
+    attributes:
+      label: Was möchten Sie tun?
+      options:
+        - "Eine allgemeine Frage stellen"
+        - "Hilfe bei einem Problem / Fehler erhalten"
+        - "Eine neue Funktion oder Verbesserung vorschlagen"
+        - "Sonstiges / Allgemeines Feedback"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Ihre Nachricht
+      description: Beschreiben Sie Ihre Frage, Ihr Problem oder Ihre Idee im Detail.
+      placeholder: Schreiben Sie Ihre Nachricht hier...
+    validations:
+      required: true
